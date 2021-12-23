@@ -116,12 +116,12 @@
   width: 213px;
   background-image: url("images/yangzhang.jpg");
   background-position: 50% 50%;
-  margin: 25px 0 0 auto;
+  margin: 23px 0 0 auto;
 }
 
 .u-section-4 .u-text-2 {
   font-weight: 700;
-  margin: 30px 23px 0 30px;
+  margin: 32px 23px 0 30px;
 }
 
 .u-section-4 .u-btn-1 {
@@ -131,7 +131,7 @@
 }
 
 .u-section-4 .u-text-3 {
-  margin: 7px 12px 0 19px;
+  margin: 7px 19px 0;
 }
 
 .u-section-4 .u-btn-2 {
@@ -148,12 +148,12 @@
   width: 213px;
   background-image: url("images/wenjie-2.jpeg");
   background-position: 50% 0%;
-  margin: 25px 0 0 auto;
+  margin: 23px 0 0 auto;
 }
 
 .u-section-4 .u-text-4 {
   font-weight: 700;
-  margin: 30px 23px 0 30px;
+  margin: 32px 23px 0 30px;
 }
 
 .u-section-4 .u-btn-3 {
@@ -163,7 +163,7 @@
 }
 
 .u-section-4 .u-text-5 {
-  margin: 7px 12px 0 19px;
+  margin: 7px 19px 0;
 }
 
 .u-section-4 .u-btn-4 {
@@ -180,12 +180,12 @@
   width: 213px;
   background-image: url("images/pengwu.png");
   background-position: 50% 5.01%;
-  margin: 25px 0 0 auto;
+  margin: 23px 0 0 auto;
 }
 
 .u-section-4 .u-text-6 {
   font-weight: 700;
-  margin: 30px 23px 0 30px;
+  margin: 32px 23px 0 30px;
 }
 
 .u-section-4 .u-btn-5 {
@@ -194,7 +194,7 @@
 }
 
 .u-section-4 .u-text-7 {
-  margin: 7px 12px 0 19px;
+  margin: 7px 19px 0;
 }
 
 .u-section-4 .u-container-layout-4 {
@@ -206,12 +206,12 @@
   width: 213px;
   background-image: url("images/fuli.png");
   background-position: 45.97% 50%;
-  margin: 25px 0 0 auto;
+  margin: 23px 0 0 auto;
 }
 
 .u-section-4 .u-text-8 {
   font-weight: 700;
-  margin: 30px 23px 0 30px;
+  margin: 32px 23px 0 30px;
 }
 
 .u-section-4 .u-btn-6 {
@@ -220,7 +220,7 @@
 }
 
 .u-section-4 .u-text-9 {
-  margin: 7px 12px 0 19px;
+  margin: 7px 18px 0;
 }
 
 .u-section-4 .u-container-layout-5 {
@@ -232,12 +232,12 @@
   width: 213px;
   background-image: url("images/xiangnan_profile_2018.png");
   background-position: 50% 50%;
-  margin: 25px 0 0 auto;
+  margin: 23px 0 0 auto;
 }
 
 .u-section-4 .u-text-10 {
   font-weight: 700;
-  margin: 30px 23px 0 30px;
+  margin: 32px 23px 0 30px;
 }
 
 .u-section-4 .u-btn-7 {
@@ -246,7 +246,7 @@
 }
 
 .u-section-4 .u-text-11 {
-  margin: 7px 12px 0 19px;
+  margin: 7px 19px 0;
 }
 
 @media (max-width: 1199px) {
